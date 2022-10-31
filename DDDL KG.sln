@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDDL KG", "DDDL KG.csproj", "{C6776D6D-5E3D-41CD-9566-1CF99AC38A3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6776D6D-5E3D-41CD-9566-1CF99AC38A3B}.Debug|x86.ActiveCfg = Debug|x86
+		{C6776D6D-5E3D-41CD-9566-1CF99AC38A3B}.Debug|x86.Build.0 = Debug|x86
+		{C6776D6D-5E3D-41CD-9566-1CF99AC38A3B}.Release|x86.ActiveCfg = Release|x86
+		{C6776D6D-5E3D-41CD-9566-1CF99AC38A3B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24EBEE5B-A59F-46B4-AE4D-A8A7B106761C}
+	EndGlobalSection
+EndGlobal
